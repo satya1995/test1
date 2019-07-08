@@ -5,7 +5,5 @@ public class bhargav
 		//line modified by dev1
 	system.out.println("haii bhargav");
 	}
-
-//hello is the code working
 }
 
